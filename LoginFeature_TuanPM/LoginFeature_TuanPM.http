@@ -1,0 +1,6 @@
+@LoginFeature_TuanPM_HostAddress = http://localhost:5007
+
+GET {{LoginFeature_TuanPM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
